@@ -35,3 +35,6 @@ Profilime girip takip etmen yeterli :)
 
 ## Lisans
 Bu sınıf MIT lisansı altında yayınlanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+
+# Özel Not
+Bu kütüphane onaylı değil ve izin alınmamıştır. Kullanım sorumluluğu size aittir.
